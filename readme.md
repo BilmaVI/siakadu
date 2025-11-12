@@ -220,14 +220,3 @@ Jika ingin berkontribusi:
 | Muhammad Julianda Nu'man | Frontend |
 | Nabil Maulana | Backend |
 | M Takhlis Griska Rafi | Frontend|
-
-
-
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
----
-
-> Dibuat dengan ❤️ oleh Tim Pengembang SIAKAD  
-> Fullstack Boilerplate untuk pengembangan akademik digital modern.
